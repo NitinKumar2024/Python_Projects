@@ -6,20 +6,20 @@ Welcome to Python Math Toolkit! This toolkit provides a set of Python scripts fo
 
 - **Check Prime Number:** Determine whether a given number is prime or not.
 - **Calculate Factorial:** Find the factorial of a given integer.
-- *(More features can be added here)*
+
 
 ## How to Use
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your_username/python-math-toolkit.git
+    git clone https://github.com/NitinKumar2024/Python_Projects.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd python-math-toolkit
+    cd Python_Projects
     ```
 
 3. **Install dependencies:**
@@ -33,16 +33,16 @@ Welcome to Python Math Toolkit! This toolkit provides a set of Python scripts fo
     - **Check Prime Number:**
     
         ```bash
-        python check_prime.py
+        python isPrime.py
         ```
     
     - **Calculate Factorial:**
     
         ```bash
-        python factorial.py
+        python find_factorial.py
         ```
 
-    *(Add instructions for other scripts as needed)*
+
 
 ## Examples
 
@@ -60,7 +60,6 @@ Welcome to Python Math Toolkit! This toolkit provides a set of Python scripts fo
     Output: 120
     ```
 
-*(You can provide more examples and use cases here)*
 
 ## Contribution
 

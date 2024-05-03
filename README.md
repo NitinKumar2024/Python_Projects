@@ -30,6 +30,15 @@ Welcome to Python Math Toolkit! This toolkit provides a set of Python scripts fo
 
 4. **Run the scripts:**
 
+     - **Machine Learning Algorithm:**
+        - **Calculate Support Vector Algorithm:**
+            ```bash
+            svm()
+            ```
+    
+
+
+
     - **Check Prime Number:**
     
         ```bash

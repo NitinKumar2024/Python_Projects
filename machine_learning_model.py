@@ -71,4 +71,3 @@ def svm():
     # (4, 1) - label -1
     # (5, 3) - label -1
     # (6, 4) - label -1
-svm()

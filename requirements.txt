@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 scikit-learn
 numpy
 matplotlib
@@ -138,4 +139,6 @@ matplotlib
 
 
 
+=======
+>>>>>>> e19589fd1f3d26c3faaa9d12d060791af2f3b102
 

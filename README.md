@@ -32,7 +32,7 @@ Welcome to Python Math Toolkit! This toolkit provides a set of Python scripts fo
 
      - **Machine Learning Algorithm:**
         ```bash
-        python isPrime.py
+        python machine_learning_model.py
         ```
             - **Calculate Support Vector Algorithm:**
                 ```bash

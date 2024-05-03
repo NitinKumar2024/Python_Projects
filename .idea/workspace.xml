@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="900f747c-e7c5-4090-9af9-2c1fa3582f6c" name="Changes" comment="Machine Learning Model Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/machine_learning_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning_model.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

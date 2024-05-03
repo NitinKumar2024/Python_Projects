@@ -34,10 +34,10 @@ Welcome to Python Math Toolkit! This toolkit provides a set of Python scripts fo
         ```bash
         python machine_learning_model.py
         ```
-            - **Calculate Support Vector Machine:**
-                ```bash
-                svm()
-                ```
+           - **Calculate Support Vector Machine:**
+                    ```bash
+                    svm()
+                    ```
     
 
 

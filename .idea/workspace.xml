@@ -1,24 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="900f747c-e7c5-4090-9af9-2c1fa3582f6c" name="Changes" comment="Machine Learning Model Added">
-      <change afterPath="$PROJECT_DIR$/Dataset/dog.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ann.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ann.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitcoin_price_prediction_model.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/20240509-203016/train/events.out.tfevents.1715266816.DESKTOP-D8FRVRP.12184.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/train/events.out.tfevents.1715264252.DESKTOP-D8FRVRP.5692.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/train/events.out.tfevents.1715264397.DESKTOP-D8FRVRP.3524.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/train/events.out.tfevents.1715264551.DESKTOP-D8FRVRP.6300.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/train/events.out.tfevents.1715264692.DESKTOP-D8FRVRP.552.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/train/events.out.tfevents.1715264787.DESKTOP-D8FRVRP.9988.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/train/events.out.tfevents.1715264884.DESKTOP-D8FRVRP.4992.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/train/events.out.tfevents.1715264910.DESKTOP-D8FRVRP.1800.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/svm.py" afterDir="false" />
+    <list default="true" id="900f747c-e7c5-4090-9af9-2c1fa3582f6c" name="Changes" comment="ANN Added">
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/Nitin/IMG_20230209_150316.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/Nitin/IMG_20230701_215020_157.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/Nitin/IMG_20231218_175400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/Nitin/IMG_20240309_212815.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/Nitin/IMG_20240314_145527.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/Nitin/Snapchat-1092935974.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/Nitin/Snapchat-1094569501.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/Nitin/Snapchat-1105681303.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/Nitin/Snapchat-1895912586.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/Nitin/Snapchat-405239586.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/Nitin/edited_image (6).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/mountain/070620-014-The-Tetons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/mountain/070926-017-Grand-Teton-Mountain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/mountain/1095_2x3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/mountain/1109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/mountain/1200px-Apollo_9_image_of_the_Namcha_Barwa_Himal_range2C_AS09-23-3511.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/mountain/1328245.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/mountain/360_F_317761488_lUO7Enkcskj6wppf9Ycf5zck5Jm2Y2b9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/mountain/360_F_624523450_NbFfAibNsbxFDjGKueOukV4ijNGFIuQ1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/mountain/360_F_84221257_rfefWUrMTssPWFD16GSArJaLodR3sO8a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/mountain/3d74639d40ae75295fd25719ce35b886.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset/Image_Dataset/mountain/5120x2133-crop-90-geo-mountains-dolomites-header-layer-1440x600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generative AI/deep_fake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generative AI/gan.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/machine_learning_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/regression.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +80,28 @@
       <option name="project" value="LOCAL" />
       <updated>1714728814779</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ANN Added">
+      <created>1715275295484</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715275295484</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ANN Added">
+      <created>1715275482289</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715275482289</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ANN Added">
+      <created>1715275520177</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715275520177</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Machine Learning Model Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Machine Learning Model Added" />
+    <MESSAGE value="ANN Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="ANN Added" />
   </component>
 </project>
